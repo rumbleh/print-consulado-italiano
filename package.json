@@ -1,0 +1,13 @@
+{
+  "name": "print-consulado",
+  "module": "index.js",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "desktop-screenshot": "^0.1.1",
+    "dotenv": "^16.3.1",
+    "puppeteer": "^21.3.0"
+  }
+}
